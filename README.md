@@ -1,2 +1,2 @@
 # Media-Tracker
-Keeps track of all Media the user currently enjoys
+Keeps track of all Media the user currently enjoys.
