@@ -1,1 +1,1 @@
-program to keep track of all media the user enjoys.
+A program to keep track of all media the user enjoys.
